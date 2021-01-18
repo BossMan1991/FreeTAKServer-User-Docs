@@ -55,7 +55,7 @@ sudo nano /usr/local/lib/python3.7/dist-packages/FreeTAKServer/controllers/confi
 To exit nano `ctrl+x` and then enter `y` to save and hit enter.
 
 #### DBFilePath
-No you need to change the `DBFilePath` value to something valid, if you are running as root, '/root' is a good choice.
+Now you need to change the `DBFilePath` value to something valid, if you are running as root, '/root' is a good choice.
 
 Original Value
 ```python
